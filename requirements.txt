@@ -1,0 +1,19 @@
+python-dotenv
+
+#framework/technology for ai agents
+langchain
+langchain-core
+langchain-community
+
+#LLM provider
+
+langchain-groq
+langchain-text-splitters
+
+#notebook
+jupyter
+ipykernel
+
+#web app
+streamlit
+

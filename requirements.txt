@@ -4,6 +4,7 @@ python-dotenv
 langchain
 langchain-core
 langchain-community
+faiss-cpu
 
 #LLM provider
 
